@@ -16,5 +16,5 @@ Removed some older Bangs that had been deprecated in Rainmeter 4
 
 In order to use the skin you need to define the following Variables
 
-WeatherLocation - You can find these codes from https://weather.codes/
-ImperialMetric - "e" for Imperial (F) or "m" for Metric (C)
+- WeatherLocation - You can find these codes from https://weather.codes/
+- ImperialMetric - "e" for Imperial (F) or "m" for Metric (C)
